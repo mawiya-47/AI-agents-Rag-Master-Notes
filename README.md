@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:7b5cff,100:ff5cf0&height=260&section=header&text=AI%20Agents%20%26%20RAG%20Master%20Notes&fontSize=36&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=Retrieval%2C%20Reasoning%20%26%20Autonomous%20AI%20Systems%20%F0%9F%A4%96&descAlignY=58&descSize=18&descColor=e6f1ff" width="100%"/>
+# 🤖 AI Agents & RAG Master Notes
+### *Retrieval, Reasoning & Autonomous AI Systems*
 
 <br>
 
@@ -20,7 +21,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:1a1147&height=3&section=header" width="100%"/>
+<hr>
 
 <br>
 
@@ -269,7 +270,7 @@ It takes 2 seconds and helps this project reach more learners around the world. 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1147,50:7b5cff,100:0a0e27&height=160&section=footer"/>
+<hr>
 
 <div align="center">
 
